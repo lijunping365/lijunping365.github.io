@@ -1,5 +1,3 @@
-![logo](_media/logo.png)
-
 # Open-Job
 
 ## 开源分布式定时任务框架
