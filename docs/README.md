@@ -119,7 +119,9 @@ public class JobHandlerTwo implements JobHandler {
 该分布式任务调度系统，是从本人之前做的一个系统中抽离出来的，开源不易，欢迎 star
 
 - **加群交流**
+
   ![Open-Job开源社区群](assets/img/wechat/wechat_group.png)
 
 - **加我微信**
+
   ![我的微信](assets/img/wechat/wechat.png)
